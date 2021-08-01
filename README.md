@@ -1,4 +1,4 @@
-# aim
+# Aim
 Hack a remote machine without having any idea about it 
 
 # Methodology
